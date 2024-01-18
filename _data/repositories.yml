@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - adonairc
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - adonairc/tt05-dda-adonairc
+  - adonairc/cpp-sphinx-doc
+  - adonairc/2deg
