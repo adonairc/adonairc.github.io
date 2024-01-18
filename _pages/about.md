@@ -25,8 +25,6 @@ I have experience in modeling electronic structure and spin-dependent transport 
 device structures. Skilled in C++ and Python programming for scientific calculations and visualization
 including for density-matrix evolutions and electric-field-induced dynamics. Also acquired extensive
 experience during my PhD studies in ab initio calculations with commercial and open-source codes and developed
-C++/MPI research codes.  These days I primarily work in C++ and Python, but I have coded in Julia, Fortran, Mathematica and Javascript in the past as well.
+C++/MPI research codes. These days I primarily work in C++ and Python, but I have coded in Julia, Fortran, Mathematica and Javascript in the past as well.
 
-I worked at [QuantCAD](http://www.quantcad.com) as Principal Investigar (PI) in two NASA SBIR projects and one DARPA award where I performed computational simulations of spin-dependent phenomena in semiconductors for quantum sensing applications and managed projects involving multiple teams from both industry and academia. I helped to write technical proposals for DOE, NSF, DARPA and NASA.  I developed Lindblad density-matrix solvers on top of QuTiP for simulating the dynamics of open quantum system and incorporated Monte Carlo device simulation and calculations of spin dephasing and decoherence of NV-center sensors varying environmental conditions
-
-
+I worked at [QuantCAD](http://www.quantcad.com) as Principal Investigar (PI) in two NASA SBIR projects and one DARPA award where I performed computational simulations of spin-dependent phenomena in semiconductors for quantum sensing applications and managed projects involving multiple teams from both industry and academia. I helped to write technical proposals for DOE, NSF, DARPA and NASA. I developed Lindblad density-matrix solvers on top of QuTiP for simulating the dynamics of open quantum system and incorporated Monte Carlo device simulation and calculations of spin dephasing and decoherence of NV-center sensors varying environmental conditions
