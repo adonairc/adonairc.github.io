@@ -25,8 +25,8 @@
   "work": [
     {
       "name": "University of Iowa",
-      "position": "Postdoctoral Scholar Researcher",
-      "url": "https://example.com",
+      "position": "Postdoctoral Research Scholar",
+      "url": "https://frg.physics.uiowa.edu",
       "startDate": "2023-10-01",
       "endDate": "-",
       "summary": "Spin-dependent phenomena in 2D materials in the group of Prof. Michael Flatté",
@@ -88,29 +88,29 @@
       "courses": ["Computational Modelling of Non-linear Electrical Lattices"]
     }
   ],
-  "awards": [
-    {
-      "title": "Marie-Currie ",
-      "date": "2017-2022",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Best poster award",
-      "date": "2017-2022",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Winner of the First Brazilian Blockchain Hackathon",
-      "date": "2016",
-      // "awarder": "Royal Swedish Academy of Sciences",
-      // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "My team and I developed a learning certificate emission platform using Bitcoin’s blockchain"
-    }
-  ],
+  // "awards": [
+  //   {
+  //     "title": "Marie-Currie ",
+  //     "date": "2017-2022",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   },
+  //   {
+  //     "title": "Best poster award",
+  //     "date": "2017-2022",
+  //     "awarder": "Royal Swedish Academy of Sciences",
+  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+  //   },
+  //   {
+  //     "title": "Winner of the First Brazilian Blockchain Hackathon",
+  //     "date": "2016",
+  //     // "awarder": "Royal Swedish Academy of Sciences",
+  //     // "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+  //     "summary": "My team and I developed a learning certificate emission platform using Bitcoin’s blockchain"
+  //   }
+  // ],
   // "certificates": [
   //   {
   //     "name": "Machine Learning",
@@ -178,18 +178,18 @@
   //     "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
   //   }
   // ],
-  "skills": [
-    {
-      "name": "Quantum Simulation Experience",
-      // "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Extensive experience in modeling electronic structure and spin-dependent transport in semiconductors and device structures. Skilled in C++ and Python programming for scientific calculations and visualization including for density-matrix evolutions and electric-field-induced spin dynamics. Also acquired extensive experience during my PhD studies in ab initio calculations with commercial codes and managing C++/MPI research codes.",
-        "Experience with multiple theoretical formalisms: density functional theory, tight-binding, stochastic master equations and multiple-scattering Green’s functions",
-        "Developed Lindblad density-matrix solvers on top of QuTiP for simulating the dynamics of open quantum systems. Incorporated Monte Carlo device simulation and calculations of spin dephasing and decoherence of NV-center sensors varying environmental conditions"
-      ]
-    }
-  ],
+  // "skills": [
+  //   {
+  //     "name": "Quantum Simulation Experience",
+  //     // "level": "Master",
+  //     "icon": "fa-solid fa-hashtag",
+  //     "keywords": [
+  //       "Extensive experience in modeling electronic structure and spin-dependent transport in semiconductors and device structures. Skilled in C++ and Python programming for scientific calculations and visualization including for density-matrix evolutions and electric-field-induced spin dynamics. Also acquired extensive experience during my PhD studies in ab initio calculations with commercial codes and managing C++/MPI research codes.",
+  //       "Experience with multiple theoretical formalisms: density functional theory, tight-binding, stochastic master equations and multiple-scattering Green’s functions",
+  //       "Developed Lindblad density-matrix solvers on top of QuTiP for simulating the dynamics of open quantum systems. Incorporated Monte Carlo device simulation and calculations of spin dephasing and decoherence of NV-center sensors varying environmental conditions"
+  //     ]
+  //   }
+  // ],
   "languages": [
     {
       "language": "Portuguese",
