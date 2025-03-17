@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Scholar at the University of Iowa
 
 profile:
   align: right
-  image: avatar.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
